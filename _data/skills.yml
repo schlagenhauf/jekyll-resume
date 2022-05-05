@@ -1,12 +1,19 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: Several years of experience leading engineering teams.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Software Eng
+- skill: Programming Languages
+  description: Python, C/C++, Rust, Java, C#, Bash
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Software Methodologies
+  description: SCRUM, Extreme Programming, Functional Programming
+
+- skill: DevOps
+  description: CI/CD, Docker, Ansible, Linux System Administration
+
+# Control Theory
+- skill: Control Theory
+  description: Classic Control (PID, Root Locus, Lead/Lag), Optimal Control (MPC, LQR, RTI), State Estimation
+
