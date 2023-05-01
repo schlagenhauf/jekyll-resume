@@ -1,6 +1,6 @@
 # Site settings
 title: "Jonas Schlagenhauf - CV"
-description: "CEO and Embedded Systems Engineer"
+description: "Robotics Engineer"
 
 # Build settings
 markdown: kramdown
@@ -17,13 +17,13 @@ resume_title:                   ""
 resume_contact_email:           "contact@jschlagenhauf.de"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
+resume_contact_telephone:       "01575 1500805"
 resume_contact_address:         "79115 Freiburg im Breisgau - Germany - DE"
 
 resume_header_contact_info:     "79115 Freiburg im Breisgau - Germany - DE • contact@jschlagenhauf.de"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hello! I'm an embedded systems engineer and manager with a love for productive, human-centric workflows. On the lookout for pragmatic yet elegant solutions to important problems.</p>"
+resume_header_intro: "<p>Hello! I'm an robotics engineer and with a passion for software that brings real world machines to life. On the lookout for the intersection of pragmatic and elegant solutions to important problems.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
